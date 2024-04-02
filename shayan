@@ -1,0 +1,2 @@
+vless://d8d2d04a-a75f-4c31-9459-75788e3c9e6d@www.gov.se:443?encryption=none&security=tls&sni=shayan.shayan-bardbor.workers.dev&fp=randomized&type=ws&host=shayan.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2048#shayan
+vless://d8d2d04a-a75f-4c31-9459-75788e3c9e6d@www.gov.se:80?encryption=none&security=none&fp=randomized&type=ws&host=shayan.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2048#shayan
