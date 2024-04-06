@@ -1,2 +1,36 @@
-vless://d8d2d04a-a75f-4c31-9459-75788e3c9e6d@www.gov.se:443?encryption=none&security=tls&sni=shayan.shayan-bardbor.workers.dev&fp=randomized&type=ws&host=shayan.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2048#shayan
-vless://d8d2d04a-a75f-4c31-9459-75788e3c9e6d@www.gov.se:80?encryption=none&security=none&fp=randomized&type=ws&host=shayan.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2048#shayan
+{
+  "outbounds": 
+  [
+    {
+      "type": "wireguard",
+      "tag": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8006:77d1:85f0:4155:5adf/128"
+      ],
+      "private_key": "eJZAsfQpsqT4391jcthqmwOSdOnRWfRZ8kqZn8QgRX8=",
+      "server": "188.114.98.109",
+      "server_port": 854,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [109,47,102],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Warp-Main",
+      "detour": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8d41:b84e:fbf8:4e04:6b67/128"
+      ],
+      "private_key": "gAARqOyGt077SLmMn+WrwVU5kTSAbGGJ6R2NP0KZHU0=",
+      "server": "188.114.98.109",
+      "server_port": 854,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [177,20,85],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    }
+  ]
+}
