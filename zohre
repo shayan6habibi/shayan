@@ -1,1 +1,36 @@
-wireguard://GDzhNbSibh6%2B%2FABrEK4dUPJSfhBcnIOp2rpJSadX5kg%3D@188.114.99.28:1074?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8aec%3A15aa%3A14d1%3Aff6f%3Adfea%2F128&reserved=0%2C0%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#❤️شایان❤️
+{
+  "outbounds": 
+  [
+    {
+      "type": "wireguard",
+      "tag": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8004:1906:9b8b:bdb5:ea52/128"
+      ],
+      "private_key": "QCh9U1gBXO6PswTDTkhxxVWjIJCGjUf4iyVU4kw9rE0=",
+      "server": "162.159.192.228",
+      "server_port": 500,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [28,219,33],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Warp-Main",
+      "detour": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8c02:8343:b5f8:2d8d:aef/128"
+      ],
+      "private_key": "CDCHtTHe6aWqhdNq2jeCUSTM7GRtgiNUZ4ZRiyrTn0Y=",
+      "server": "162.159.192.228",
+      "server_port": 500,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [193,150,94],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    }
+  ]
+}
