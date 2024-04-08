@@ -1,36 +1,10 @@
-{
-  "outbounds": 
-  [
-    {
-      "type": "wireguard",
-      "tag": "Warp-IR",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8006:77d1:85f0:4155:5adf/128"
-      ],
-      "private_key": "eJZAsfQpsqT4391jcthqmwOSdOnRWfRZ8kqZn8QgRX8=",
-      "server": "188.114.98.109",
-      "server_port": 854,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [109,47,102],
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main",
-      "detour": "Warp-IR",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8d41:b84e:fbf8:4e04:6b67/128"
-      ],
-      "private_key": "gAARqOyGt077SLmMn+WrwVU5kTSAbGGJ6R2NP0KZHU0=",
-      "server": "188.114.98.109",
-      "server_port": 854,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [177,20,85],
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    }
-  ]
-}
+vless://Telegram-id-ELiV2Ray@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#🇬🇧GB%20|%20🔴%20shayan
+vless://Telegram-id-ELiV2Ray@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#🇨🇦CA%20|%20🔴%20shayan
+vless://--Telegram-ELiV2Ray-@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#🇨🇦CA%20|%20🔴%20shayan
+vless://--Telegram-ELiV2Ray-@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#🇬🇧GB%20|%20🔴%20shayan
+vless://16c5c7ca-f356-4318-9e17-815fb387a9fe@shiatv.net:2096?type=grpc&encryption=none&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&security=tls&sni=channel.v2bamdad.tech&fp=chrome#🇨🇦CA%20|%20🔴%20shayan
+vless://f5c452f4-73a2-461a-a9c3-8505986bd0f9@104.21.20.148:2083?type=grpc&encryption=none&security=tls&sni=2083.gooshttest.online&alpn=h2%2Chttp%2F1.1#🚩CF%20|%20🔴%20shayan
+vless://3196ca3c-7ff0-434e-8219-004c7f024e2a@188.114.98.224:443?type=grpc&encryption=none&serviceName=2059vless&security=tls&sni=AwdauJoiuawhdiuhawdopdrGioiroijwadoijawd.DoTa2sina.lol.&alpn=h2%2Chttp%2F1.1#🚩CF%20|%20🔴%20shayan
+vless://2308a6d8-83b7-485b-9b78-8562dbfb49a5@104.21.62.183:2096?type=grpc&encryption=none&serviceName=asdasvvbht&security=tls&sni=give9.hadichoop.com&alpn=h2&fp=firefox#🚩CF%20|%20🔴%20shayan
+vless://--Telegram-ELiV2Ray--@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#🇨🇦CA%20|%20🔴%20shayan
+vless://--Telegram-ELiV2RAY--@WwW.vIsA.com:2096?path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=fOruMs.ELena-cloUdflaRe.com.&fp=firefox&type=ws&sni=fOruMs.elena-cloUdflaRe.com.#🇨🇦CA%20|%20🔴%20shayan
