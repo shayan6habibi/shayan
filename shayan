@@ -1,0 +1,37 @@
+{
+  "outbounds": 
+  [
+    {
+      "type": "wireguard",
+      "tag": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8b45:6cfc:6207:4c44:6992/128"
+      ],
+      "private_key": "MODdRAVW4kPWl/VXvEvOIuhRfSPNpeNTt+PRY0HfD2A=",
+      "server": "162.159.192.73",
+      "server_port": 7103,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [238,190,193],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Warp-Main",
+      "detour": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8bf0:93a5:bb69:b8c3:2cde/128"
+      ],
+      "private_key": "ADnBcEFFVQBsSVdk+JjbyUpO3PzoEfNhxAQmsjli3mM=",
+      "server": "162.159.192.73",
+      "server_port": 7103,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [134,79,188],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    }
+  ]
+}
+vless://67d50c2d-bf60-45fd-9690-2041b09d6d6f@[2a00:b703:fff1:215::1]:25365?mode=multi&security=reality&encryption=none&authority=&pbk=Krfw2Ag6_YlmVcMGrGkznbzmuEETbIQgaQlU4gqQ5xQ&fp=chrome&spx=%2F&type=grpc&serviceName=%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON&sni=sourceforge.net&sid=6bd487e5#%E2%9D%94XX+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40V2pedia+%7C+1
