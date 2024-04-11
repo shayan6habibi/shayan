@@ -1,36 +1,7 @@
-{
-  "outbounds": 
-  [
-    {
-      "type": "wireguard",
-      "tag": "Warp-IR",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8b45:6cfc:6207:4c44:6992/128"
-      ],
-      "private_key": "MODdRAVW4kPWl/VXvEvOIuhRfSPNpeNTt+PRY0HfD2A=",
-      "server": "162.159.192.73",
-      "server_port": 7103,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [238,190,193],
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-Main",
-      "detour": "Warp-IR",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8bf0:93a5:bb69:b8c3:2cde/128"
-      ],
-      "private_key": "ADnBcEFFVQBsSVdk+JjbyUpO3PzoEfNhxAQmsjli3mM=",
-      "server": "162.159.192.73",
-      "server_port": 7103,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [134,79,188],
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    }
-  ]
-}
+vless://Parsashonam-41@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%F0%9F%87%A8%F0%9F%87%A6CA+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40Parsashonam+%7C+1
+vless://ff771898-3e59-4d0a-91b1-c4d5260c8f9a@172.67.193.36:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=abcdefghigklmnopqrstuvwxyz.likeboukan1.top#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40EliV2ray+%7C+3
+vless://509759ae-26f9-42dc-90b0-1ba310c1697d@185.146.173.59:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY&sni=EliV2ray.naziitness.com#%F0%9F%87%B8%F0%9F%87%AASE+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40EliV2ray+%7C+4
+vless://509759ae-26f9-42dc-90b0-1ba310c1697d@172.67.193.36:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY&sni=EliV2ray.naziitness.com#%F0%9F%9A%A9CF+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40EliV2ray+%7C+5
+vless://509759ae-26f9-42dc-90b0-1ba310c1697d@www.visa.com:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY&sni=EliV2ray.naziitness.com#%F0%9F%87%A8%F0%9F%87%A6CA+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40EliV2ray+%7C+17
+vless://Parsashonam-39@www.visa.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#%F0%9F%87%A8%F0%9F%87%A6CA+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40Parsashonam+%7C+0
+vless://509759ae-26f9-42dc-90b0-1ba310c1697d@www.you.com:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY--%40ELiV2RaY&sni=EliV2ray.naziitness.com#%F0%9F%87%A8%F0%9F%87%A6CA+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40EliV2ray+%7C+16
