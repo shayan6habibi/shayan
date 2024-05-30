@@ -6,13 +6,13 @@
       "tag": "Warp-IR",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:85c2:780c:174d:2edb:f571/128"
+        "2606:4700:110:8784:3403:9998:aec0:105f/128"
       ],
-      "private_key": "gNhzKdylPPUIP2BCgLvdvZBZmHej106KI5VyXW/0rlg=",
-      "server": "162.159.192.10",
-      "server_port": 880,
+      "private_key": "OP9UfNkasBWc2K407BNoNCmOxA848stqfopDt2ijy0k=",
+      "server": "162.159.192.104",
+      "server_port": 4177,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [184,162,127],
+      "reserved": [88,214,227],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
@@ -22,13 +22,13 @@
       "detour": "Warp-IR",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8c24:bf6c:d89c:48fc:7001/128"
+        "2606:4700:110:8235:d002:48b7:fa1e:3525/128"
       ],
-      "private_key": "IHHSXHphW3tbQZUxkkNp24M8DJFEoVzjDNKnB62Qm00=",
-      "server": "162.159.192.10",
-      "server_port": 880,
+      "private_key": "eHsP8Bab1cLgW8jI95IElpKqnjyUzMOePZbF/ONVWmU=",
+      "server": "162.159.192.104",
+      "server_port": 4177,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [66,191,153],
+      "reserved": [119,106,173],
       "mtu": 1280,
       "fake_packets": "5-10"
     }
