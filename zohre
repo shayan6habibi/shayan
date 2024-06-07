@@ -3,7 +3,7 @@
   [
     {
       "type": "wireguard",
-      "tag": "Warp-IR",
+      "tag": "ایران",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8ffc:8782:2ce4:4a87:e386/128"
@@ -18,8 +18,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Warp-Main",
-      "detour": "Warp-IR",
+      "tag": "آلمان",
+      "detour": "ایران",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:803b:2a76:2674:e943:8dda/128"
