@@ -2,8 +2,8 @@
   "outbounds": 
   [
     {
-      "type": "wireguard",
-      "tag": "Warp-IR",
+      "type": "👑شایان👑",
+      "tag": "ایران",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:844f:1cfb:656:2515:a39/128"
@@ -17,9 +17,9 @@
       "fake_packets": "5-10"
     },
     {
-      "type": "wireguard",
-      "tag": "Warp-Main",
-      "detour": "Warp-IR",
+      "type": "👑شایان👑",
+      "tag": "آلمان",
+      "detour": "ایران",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:86ba:2728:19c0:6ecd:aae8/128"
