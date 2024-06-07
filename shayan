@@ -2,7 +2,7 @@
   "outbounds": 
   [
     {
-      "type": "شایان",
+      "type": "wireguard",
       "tag": "ایران",
       "local_address": [
         "172.16.0.2/32",
@@ -17,7 +17,7 @@
       "fake_packets": "5-10"
     },
     {
-      "type": "شایان",
+      "type": "wireguard",
       "tag": "آلمان",
       "detour": "ایران",
       "local_address": [
