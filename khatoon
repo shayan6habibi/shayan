@@ -1,36 +1,5 @@
-{
-  "outbounds": 
-  [
-    {
-      "type": "wireguard",
-      "tag": "ایران🇮🇷",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:885c:d1ea:98b3:8fcc:82db/128"
-      ],
-      "private_key": "KNyy2luu05Un3DEA0dzRUeKghtY/cmvw4c/O76UDHVA=",
-      "server": "162.159.195.184",
-      "server_port": 928,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [253,135,15],
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "آآلمان🇩🇪",
-      "detour": "اایران🇮🇷",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:857d:3be:2fcb:f704:c613/128"
-      ],
-      "private_key": "6IIjaHXladaGvrrOJZhwlA4Bv2H9VqFcuU2YT2euZ3o=",
-      "server": "162.159.195.184",
-      "server_port": 928,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [178,169,46],
-      "mtu": 1280,
-      "fake_packets": "5-10"
-    }
-  ]
-}
+//profile-title: shayan
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//last update on: 2024-06-18 02:49:55
+warp:// 162.159.192.145:955?ifp=10-20&ifps=20-60&ifpd=5-10#ایران🇮🇷&&detour=warp://188.114.96.114:942?ifp=10-20&ifps=20-60&ifpd=5-10#آلمان🇩🇪WoW
