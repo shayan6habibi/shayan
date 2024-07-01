@@ -1,0 +1,5 @@
+//profile-title: 👑test👑
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//last update on: 2024-06-18 02:49:55
+warp://188.114.96.134:8886?ifp=10-20&ifps=20-60&ifpd=5-10#ایران🇮🇷&&detour=warp://162.159.192.67:8319?ifp=10-20&ifps=20-60&ifpd=5-10#آلمان🇩🇪WoW
