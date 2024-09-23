@@ -7,6 +7,6 @@ vless://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@143.47.188.17:443/?type=tcp&encrypt
 hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@159.13.34.59:443/?mport=55000-56000&insecure=1&sni=www.bing.com#استرالیا🇦🇺
 hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@192.9.164.54:443/?mport=55000-56000&insecure=1&sni=www.bing.com#استرالیا2🇦🇺
 vless://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@159.13.39.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.0wolf.com&fp=chrome&packetEncoding=xudp#استرالیا3🇦🇺
-hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@141.148.208.213:443/?mport=55000-56000&insecure=1&sni=www.bing.com#هند🇧🇷
-hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@144.24.153.219:443/?mport=55000-56000&insecure=1&sni=www.bing.com#هند🇧🇷2
+hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@141.148.208.213:443/?mport=55000-56000&insecure=1&sni=www.bing.com#هند🇮🇳
+hy2://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@144.24.153.219:443/?mport=55000-56000&insecure=1&sni=www.bing.com#هند🇮🇳2
 vless://53e85f4a-43ad-43b5-b65f-8dd765d7a65c@152.67.209.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.0wolf.com&fp=chrome&packetEncoding=xudp#کره جنوبی🇰🇷
