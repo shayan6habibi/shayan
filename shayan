@@ -1,2 +1,2 @@
-trojan://9f129790-9886-4c29-80d3-a36363319de0@12372.96110.one:23872?security=tls&sni=www.icloud.com&type=tcp&headerType=none#آمریکا
-trojan://9f129790-9886-4c29-80d3-a36363319de0@23489.96110.one:53296?security=tls&sni=www.icloud.com&type=tcp&headerType=none#سنگاپور
+trojan://9f129790-9886-4c29-80d3-a36363319de0@12372.96110.one:23872?security=tls&sni=www.icloud.com&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20MF-1%EF%BD%9CUnited%20States
+trojan://9f129790-9886-4c29-80d3-a36363319de0@23489.96110.one:53296?security=tls&sni=www.icloud.com&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20MF-1%EF%BD%9CSingapore
