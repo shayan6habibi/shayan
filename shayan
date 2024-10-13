@@ -33,3 +33,17 @@ vless://988fed70-5088-40e4-98f3-b25f91300829@sg-singapore-do.cfip.top:63902?secu
 vless://988fed70-5088-40e4-98f3-b25f91300829@us-sanfrancisco-do.cfip.top:49952?security=reality&sni=www.python.org&fp=qq&pbk=efBxv4IXeUwcpLwOtHq8M9NJLBI975v797aOltHOuX8&sid=73786e6c&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-SanFrancisco-DO-%E6%97%A7%E9%87%91%E5%B1%B1
 vless://988fed70-5088-40e4-98f3-b25f91300829@fr-marseille-oracle.cfip.top:33402?security=reality&sni=www.python.org&fp=chrome&pbk=rs6Z3Apges9zzQLktgnizv24FQ5Ubq3rTZDqFjlS2Ho&sid=35767a94&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]FR-Marseille-%E9%A9%AC%E8%B5%9B
 vless://988fed70-5088-40e4-98f3-b25f91300829@nl-amsterdam-do.cfip.top:42852?security=reality&sni=www.python.org&fp=chrome&pbk=_PvTZVtrO8-lDv4Z38ewQK1XkU-w-dY9Z9kczGrMygU&sid=2d3e561a&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]NL-Amsterdam-%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@hk-01.cloudlion.me:8005#%E9%A6%99%E6%B8%AF1%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@hk-02.cloudlion.me:8005#%E9%A6%99%E6%B8%AF2%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@hk-03.cloudlion.me:8005#%E9%A6%99%E6%B8%AF3%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@hk-04.cloudlion.me:8005#%E9%A6%99%E6%B8%AF4%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@tw-01.cloudlion.me:8005#%E5%8F%B0%E6%B9%BE%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@jp-01.cloudlion.me:8005#%E6%97%A5%E6%9C%AC1%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@jp-02.cloudlion.me:8005#%E6%97%A5%E6%9C%AC2%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@sg-01.cloudlion.me:8005#%E6%96%B0%E5%8A%A0%E5%9D%A11%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@sg-02.cloudlion.me:8005#%E6%96%B0%E5%8A%A0%E5%9D%A12%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@us-01.cloudlion.me:8005#%E7%BE%8E%E5%9B%BD1%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@ru-01.cloudlion.me:8005#%E4%BF%84%E7%BD%97%E6%96%AF1%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@tr-01.cloudlion.me:8005#%E5%9C%9F%E8%80%B3%E5%85%B61%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@fr-01.cloudlion.me:8005#%E6%B3%95%E5%9B%BD1%20ipv6
+hy2://f547a0f4-600a-46fc-a69c-386f996ab037@au-01.cloudlion.me:8005#%E6%BE%B3%E6%B4%B21%20ipv6
