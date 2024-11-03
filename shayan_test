@@ -1,7 +1,162 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWJqeS9mea1gemHj++8mjk5Ljk3IEdCIiwNCiAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZiZmI2NjJjLTlmNjYtNDNiZC1hNmJlLWFiZTY5MjBlMjQzMCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibmwuc2hpZGlhbmJhbi50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm5sLnNoaWRpYW5iYW4udG9wIiwNCiAgImFscG4iOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWll+mkkOWIsOacn++8mjIwMjQtMTItMDQiLA0KICAiYWRkIjogImNmLjA5MDIyNy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmJmYjY2MmMtOWY2Ni00M2JkLWE2YmUtYWJlNjkyMGUyNDMwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJubC5zaGlkaWFuYmFuLnRvcCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibmwuc2hpZGlhbmJhbi50b3AiLA0KICAiYWxwbiI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWNsOW6puOAkOeUqOWJjeeci+S9v+eUqOaWh+ahoyIsDQogICJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2YmZiNjYyYy05ZjY2LTQzYmQtYTZiZS1hYmU2OTIwZTI0MzAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm5sLnNoaWRpYW5iYW4udG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJubC5zaGlkaWFuYmFuLnRvcCIsDQogICJhbHBuIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuW3tOilv2EyLnNoaWRpYW5iYW4udG9wIiwNCiAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZiZmI2NjJjLTlmNjYtNDNiZC1hNmJlLWFiZTY5MjBlMjQzMCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2Euc2hpZGlhbmJhbi50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNhLnNoaWRpYW5iYW4udG9wIiwNCiAgImFscG4iOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoVgyIiwNCiAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZiZmI2NjJjLTlmNjYtNDNiZC1hNmJlLWFiZTY5MjBlMjQzMCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2cxLnNoaWRpYW5iYW4udG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZzEuc2hpZGlhbmJhbi50b3AiLA0KICAiYWxwbiI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaymeeJuemYv+aLieS8ryIsDQogICJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2YmZiNjYyYy05ZjY2LTQzYmQtYTZiZS1hYmU2OTIwZTI0MzAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImtzYS5zaGlkaWFuYmFuLnRvcCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAia3NhLnNoaWRpYW5iYW4udG9wIiwNCiAgImFscG4iOiAiIg0KfQ==
-vless://6bfb662c-9f66-43bd-a6be-abe6920e2430@cf.090227.xyz:443?encryption=none&security=tls&sni=fr1.shidianban.top&type=ws&host=fr1.shidianban.top&path=%2F#%E6%B3%95%E5%9B%BD
+}
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本【1】",
+      "server": "jp1.chuanshiqi.top",
+      "server_port": 21453,
+      "password": "6bfb662c-9f66-43bd-a6be-abe6920e2430",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本【2】",
+      "server": "jp2.chuanshiqi.top",
+      "server_port": 21453,
+      "password": "6bfb662c-9f66-43bd-a6be-abe6920e2430",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "英国【1】",
+      "server": "uk1.chuanshiqi.top",
+      "server_port": 21454,
+      "password": "6bfb662c-9f66-43bd-a6be-abe6920e2430",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "瑞士【1】",
+      "server": "eu1.chuanshiqi.top",
+      "server_port": 21452,
+      "password": "6bfb662c-9f66-43bd-a6be-abe6920e2430",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true
+      }
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "10-30",
+        "sleep": "2-8"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "inbound": "tun-in",
+        "package_name": "app.hiddify.com",
+        "outbound": "bypass"
+      },
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "rule_set": [
+          "geosite-ads",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers",
+          "geoip-malware",
+          "geoip-phishing"
+        ],
+        "outbound": "block"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geosite-ads",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-category-ads-all.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-malware",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-malware.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-phishing",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-phishing.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-cryptominers",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-cryptominers.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-phishing",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-phishing.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-malware",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-malware.srs",
+        "update_interval": "120h0m0s"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:16756",
+      "secret": "L4T7_8rq4FwfSRGX"
+    }
+  }
+}
