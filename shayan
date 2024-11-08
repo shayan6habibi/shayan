@@ -1,35 +1,400 @@
-vmess://eyJhZGQiOiJjbi5haWs4OC5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMGNkNTlkYTYtNGNjYy00OGI2LTgzNjItOGMwMWVlMWExMjk0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI4ODg4IiwicHMiOiLwn4ew8J+HtSDmnJ3pspwgfCDkuK3ovawg5bm/6KW/IDAyIGlwdjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJjbi5haWs4OC5teS5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMGNkNTlkYTYtNGNjYy00OGI2LTgzNjItOGMwMWVlMWExMjk0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI4MDg4IiwicHMiOiLwn4et8J+HsCDpppnmuK8gfCDkuK3ovawg5bm/6KW/IDAxIGlwdjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIyYTBmOjc4MDM6ZmIzMTphOjphIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwiaWQiOiIwY2Q1OWRhNi00Y2NjLTQ4YjYtODM2Mi04YzAxZWUxYTEyOTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2FkYTEyMjIyIiwicG9ydCI6Ijg4ODgiLCJwcyI6IvCfh63wn4ewIOmmmea4ryB8ICBpcHY2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIyMy4xNjYuMjQuMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwiaWQiOiIwY2Q1OWRhNi00Y2NjLTQ4YjYtODM2Mi04YzAxZWUxYTEyOTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2FkYTEyMjIyIiwicG9ydCI6Ijg4ODgiLCJwcyI6IvCfh7rwn4e4IOe+juWbvSB8IDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTcuMjU0LjIxLjExOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMGNkNTlkYTYtNGNjYy00OGI2LTgzNjItOGMwMWVlMWExMjk0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dhZGExMjIyMiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewIOmmmea4ryB8IDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxLjEuMS4xIiwiYWlkIjoiMCIsImhvc3QiOiJ1c2JrLmNmaXAudG9wIiwiaWQiOiI5ODhmZWQ3MC01MDg4LTQwZTQtOThmMy1iMjVmOTEzMDA4MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJbdm1lc3Nd5Ymp5L2Z5rWB6YeP77yaMjkuOTkgR0IiLCJzY3kiOiJhdXRvIiwic25pIjoidXNiay5jZmlwLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxLjEuMS4xIiwiYWlkIjoiMCIsImhvc3QiOiJ1c2JrLmNmaXAudG9wIiwiaWQiOiI5ODhmZWQ3MC01MDg4LTQwZTQtOThmMy1iMjVmOTEzMDA4MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJbdm1lc3Nd6Led56a75LiL5qyh6YeN572u5Ymp5L2Z77yaMjcg5aSpIiwic2N5IjoiYXV0byIsInNuaSI6InVzYmsuY2ZpcC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxLjEuMS4xIiwiYWlkIjoiMCIsImhvc3QiOiJ1c2JrLmNmaXAudG9wIiwiaWQiOiI5ODhmZWQ3MC01MDg4LTQwZTQtOThmMy1iMjVmOTEzMDA4MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJbdm1lc3Nd5aWX6aSQ5Yiw5pyf77yaMjAyNC0xMS0wOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1c2JrLmNmaXAudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxLjEuMS4xIiwiYWlkIjoiMCIsImhvc3QiOiJ1c2JrLmNmaXAudG9wIiwiaWQiOiI5ODhmZWQ3MC01MDg4LTQwZTQtOThmMy1iMjVmOTEzMDA4MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJbdm1lc3Nd5Lul5LiL5Li65YWN6LS5KENETiznm7Tov54p6IqC54K5Iiwic2N5IjoiYXV0byIsInNuaSI6InVzYmsuY2ZpcC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJ1c2JrLmNmaXAudG9wIiwiYWlkIjoiMCIsImhvc3QiOiJ1c2JrLmNmaXAudG9wIiwiaWQiOiI5ODhmZWQ3MC01MDg4LTQwZTQtOThmMy1iMjVmOTEzMDA4MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzL2hkLm0zdTgiLCJwb3J0IjoiODQ0MyIsInBzIjoiW3ZtZXNzXVtDRE5dVVMtTmV3X1lvcmst57q957qmIiwic2N5IjoiYXV0byIsInNuaSI6InVzYmsuY2ZpcC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJVUy1Mb3NBbmdlbGVzLUEuY2ZpcC50b3AiLCJhaWQiOiIwIiwiaG9zdCI6InVzLWxvc19hbmdlbGVzLWEuY2ZpcC50b3AiLCJpZCI6Ijk4OGZlZDcwLTUwODgtNDBlNC05OGYzLWIyNWY5MTMwMDgyOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsInBvcnQiOiI4NDQzIiwicHMiOiJbdm1lc3NdW0NETl1VUy1Mb3NBbmdlbGVzLea0m+adieefti1BIiwic2N5IjoiYXV0byIsInNuaSI6InVzLWxvc19hbmdlbGVzLWEuY2ZpcC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJVUy1Mb3NBbmdlbGVzLUIuY2ZpcC50b3AiLCJhaWQiOiIwIiwiaG9zdCI6InVzLWxvc19hbmdlbGVzLWIuY2ZpcC50b3AiLCJpZCI6Ijk4OGZlZDcwLTUwODgtNDBlNC05OGYzLWIyNWY5MTMwMDgyOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsInBvcnQiOiI4NDQzIiwicHMiOiJbdm1lc3NdW0NETl1VUy1Mb3NBbmdlbGVzLea0m+adieefti1CIiwic2N5IjoiYXV0byIsInNuaSI6InVzLWxvc19hbmdlbGVzLWIuY2ZpcC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://988fed70-5088-40e4-98f3-b25f91300829@us-losangeles-a1.cfip.top:18888?security=reality&sni=www.python.org&fp=safari&pbk=6EMeIiIKBygIpR-WP5AkL6VHE0GF7JltrxhYPE6ZtSk&sid=bae80839&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-LosAngeles-%E6%B4%9B%E6%9D%89%E7%9F%B6-A
-vless://988fed70-5088-40e4-98f3-b25f91300829@us-losangeles-b1.cfip.top:18888?security=reality&sni=www.python.org&fp=chrome&pbk=DJJLbsgSg5qdanbAxsNp4jcN1SrctMIMXFpcbQ55XQI&sid=6e6c5eb8&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-LosAngeles-%E6%B4%9B%E6%9D%89%E7%9F%B6-B
-vless://988fed70-5088-40e4-98f3-b25f91300829@ae-dubai-oracle.cfip.top:23702?security=reality&sni=www.python.org&fp=safari&pbk=tchQjYmlQaMfS_nz2zDaA4cdo_4jxv27nnk40ggxpGU&sid=bbddf1ac&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]AE-Dubai-%E8%BF%AA%E6%8B%9C
-vless://988fed70-5088-40e4-98f3-b25f91300829@au-melbourne-oracle.cfip.top:26452?security=reality&sni=www.python.org&fp=edge&pbk=WgcqVNRSBPbUT7YsheS-rLTzq99B2W3a_YpGCyM0oH8&sid=685f1e57&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]AU-Melbourne-%E5%A2%A8%E5%B0%94%E6%9C%AC
-vless://988fed70-5088-40e4-98f3-b25f91300829@au-sydney-oracle.cfip.top:55002?security=reality&sni=www.python.org&fp=safari&pbk=whWNPZXTc22KZScxwBTRAgDxodTCw6muRkqWpSTcQ38&sid=751af728&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]AU-Sydney-%E6%82%89%E5%B0%BC
-vless://988fed70-5088-40e4-98f3-b25f91300829@ca-toronto-oracle.cfip.top:28702?security=reality&sni=www.python.org&fp=ios&pbk=n9F5skEpK9CxqOI-7_MZQjIHsAjzBOLUZMVojqbxLGA&sid=277895f0&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]CA-Toronto-%E5%A4%9A%E4%BC%A6%E5%A4%9A
-vless://988fed70-5088-40e4-98f3-b25f91300829@it-milan-oracle.cfip.top:26552?security=reality&sni=www.python.org&fp=firefox&pbk=ak_qVxgTkZh6Ic9yd3B60rqBQLomznoBjvTR2jl8nCQ&sid=cfa0ff1f&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]IT-Milan-%E7%B1%B3%E5%85%B0
-vless://988fed70-5088-40e4-98f3-b25f91300829@jp-tokyo-oracle.cfip.top:59252?security=reality&sni=www.python.org&fp=chrome&pbk=Mg3vwt21ZbL-8QI5oVhbgU1OKTBjmzVA1d8W2U-XoBU&sid=ae1de0af&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]JP-Tokyo-%E4%B8%9C%E4%BA%AC
-vless://988fed70-5088-40e4-98f3-b25f91300829@kr-chuncheon-oracle.cfip.top:22552?security=reality&sni=www.python.org&fp=chrome&pbk=oe-mBTAVoRCL9GkrPQ7K6-eeJc2CJiJ5T5WEDWo20ig&sid=777e73a6&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]KR-Chuncheon-%E6%98%A5%E5%B7%9D
-vless://988fed70-5088-40e4-98f3-b25f91300829@kr-seoul-oracle.cfip.top:62652?security=reality&sni=www.python.org&fp=edge&pbk=DuNrGnn9Xggqyk63zxqLXC4CxIkCWmTMDPv_sMzk2h0&sid=7e3fab1e&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]KR-Seoul-%E6%B1%89%E5%9F%8E
-vless://988fed70-5088-40e4-98f3-b25f91300829@us-ashburn-oracle.cfip.top:21352?security=reality&sni=www.python.org&fp=ios&pbk=nyCguCLH775mUG3p_6K23b9l-eTCFHxVZveXZQ_UHGc&sid=5bebe867&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-Ashburn-%E9%98%BF%E4%BB%80%E6%9C%AC
-vless://988fed70-5088-40e4-98f3-b25f91300829@us-chicago-oracle.cfip.top:23552?security=reality&sni=www.python.org&fp=safari&pbk=eM_WD2XQadgg6FPfUPy6P8yhvByKHgBY_L8YUOc3_iU&sid=a9a5b007&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-Chicago-%E8%8A%9D%E5%8A%A0%E5%93%A5
-vless://988fed70-5088-40e4-98f3-b25f91300829@ae-abudhabi-oracle.cfip.top:22402?security=reality&sni=www.python.org&fp=qq&pbk=BwWawBlVncpYsMKJHEC0asrGVfb49OOKS9J3FRYIiA0&sid=ec32eff0&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]AE-Abudhabi-%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94
-vless://988fed70-5088-40e4-98f3-b25f91300829@in-mumbai-oracle.cfip.top:25202?security=reality&sni=www.python.org&fp=firefox&pbk=8wZ3a-_Ium7qK0WsybJhqV24FGnm9tYKz8QSxZgGGl0&sid=944cf71b&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]IN-Mumbai-%E5%AD%9F%E4%B9%B0
-vless://988fed70-5088-40e4-98f3-b25f91300829@sg-singapore-oracle.cfip.top:40052?security=reality&sni=www.python.org&fp=edge&pbk=UWRoj7AjA6fYgicb9eJhlGPaCiVegRxtC9FGbfQ7WCc&sid=a4e44069&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]SG-Singapore-%E6%96%B0%E5%8A%A0%E5%9D%A1
-vless://988fed70-5088-40e4-98f3-b25f91300829@us-sanjose-oracle.cfip.top:61952?security=reality&sni=www.python.org&fp=ios&pbk=h47fRSvjd0SmTGxr8n4t9Z61y003_C6wxYy6QVWRHkM&sid=402025d7&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-Sanjose-%E5%9C%A3%E4%BD%95%E5%A1%9E
-vless://988fed70-5088-40e4-98f3-b25f91300829@de-frankfurt-oracle.cfip.top:26602?security=reality&sni=www.python.org&fp=qq&pbk=feS1wncmzOQMT4l3bp143eWrHPh18_zo5k4kKQdnrAU&sid=2ceff84a&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]DE-Frankfurt-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
-vless://988fed70-5088-40e4-98f3-b25f91300829@jp-osaka-oracle.cfip.top:62502?security=reality&sni=www.python.org&fp=qq&pbk=qgjXfcQRIdxyzKeJbgODFg5yAaPwtHmdAxnr-zJcERg&sid=5dff7b0f&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]JP-Osaka-%E5%A4%A7%E9%98%AA
-vless://988fed70-5088-40e4-98f3-b25f91300829@br-saopaolo-oracle.cfip.top:56152?security=reality&sni=www.python.org&fp=qq&pbk=YlC8ZWOIDjZEPDa7jpJQNSkbPBOHzlbTuuQf2UazJ2g&sid=d70597ed&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]BR-Saopaolo-%E5%9C%A3%E4%BF%9D%E7%BD%97
-vless://988fed70-5088-40e4-98f3-b25f91300829@sg-singapore-do.cfip.top:63902?security=reality&sni=www.python.org&fp=firefox&pbk=QT0c4aMIO3J7F6_MLUYsJKkebCxHW9w7HWCU6kMM1Bw&sid=65ce586a&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]SG-Singapore-DO-%E6%96%B0%E5%8A%A0%E5%9D%A1
-vless://988fed70-5088-40e4-98f3-b25f91300829@us-sanfrancisco-do.cfip.top:49952?security=reality&sni=www.python.org&fp=qq&pbk=efBxv4IXeUwcpLwOtHq8M9NJLBI975v797aOltHOuX8&sid=73786e6c&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]US-SanFrancisco-DO-%E6%97%A7%E9%87%91%E5%B1%B1
-vless://988fed70-5088-40e4-98f3-b25f91300829@fr-marseille-oracle.cfip.top:33402?security=reality&sni=www.python.org&fp=chrome&pbk=rs6Z3Apges9zzQLktgnizv24FQ5Ubq3rTZDqFjlS2Ho&sid=35767a94&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]FR-Marseille-%E9%A9%AC%E8%B5%9B
-vless://988fed70-5088-40e4-98f3-b25f91300829@nl-amsterdam-do.cfip.top:42852?security=reality&sni=www.python.org&fp=chrome&pbk=_PvTZVtrO8-lDv4Z38ewQK1XkU-w-dY9Z9kczGrMygU&sid=2d3e561a&type=tcp&flow=xtls-rprx-vision&encryption=none#[vless][%E7%9B%B4%E8%BF%9E]NL-Amsterdam-%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
+{
+  "log": {
+    "level": "warn",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "udp://1.1.1.1",
+        "address_resolver": "dns-direct"
+      },
+      {
+        "tag": "dns-trick-direct",
+        "address": "https://sky.rethinkdns.com/",
+        "detour": "direct-fragment"
+      },
+      {
+        "tag": "dns-direct",
+        "address": "1.1.1.1",
+        "address_resolver": "dns-local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-local",
+        "address": "local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain": [
+          "surfboard-fr.lwjyj.com",
+          "surfboard-lu.lwjyj.com",
+          "surfboard-us.lwjyj.com"
+        ],
+        "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      },
+      {
+        "rule_set": [
+          "geosite-ads",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers",
+          "geoip-malware",
+          "geoip-phishing"
+        ],
+        "server": "dns-block"
+      }
+    ],
+    "final": "dns-remote",
+    "static_ips": {
+      "sky.rethinkdns.com": [
+        "104.17.147.22",
+        "104.17.148.22",
+        "188.114.96.3",
+        "188.114.97.3",
+        "2a06:98c1:3121::3",
+        "2a06:98c1:3120::3"
+      ]
+    },
+    "independent_cache": true
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/28",
+      "auto_route": true,
+      "strict_route": true,
+      "endpoint_independent_nat": true,
+      "stack": "gvisor",
+      "sniff": true
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 12334,
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 16450
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "select",
+      "outbounds": [
+        "auto",
+        "剩余流量：500 GB",
+        "套餐到期：2024-12-08",
+        "🇫🇷 法国1",
+        "🇫🇷 法国2",
+        "🇫🇷  法国3",
+        "🇫🇷 法国4",
+        "🇱🇺 卢森堡1",
+        "🇱🇺 卢森堡2",
+        "🇱🇺 卢森堡3",
+        "🇱🇺 卢森堡4",
+        "🇺🇸 美国1",
+        "🇺🇸 美国2",
+        "🇺🇸 美国3",
+        "🇺🇸 美国4"
+      ],
+      "default": "auto",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": [
+        "剩余流量：500 GB",
+        "套餐到期：2024-12-08",
+        "🇫🇷 法国1",
+        "🇫🇷 法国2",
+        "🇫🇷  法国3",
+        "🇫🇷 法国4",
+        "🇱🇺 卢森堡1",
+        "🇱🇺 卢森堡2",
+        "🇱🇺 卢森堡3",
+        "🇱🇺 卢森堡4",
+        "🇺🇸 美国1",
+        "🇺🇸 美国2",
+        "🇺🇸 美国3",
+        "🇺🇸 美国4"
+      ],
+      "url": "http://cp.cloudflare.com",
+      "interval": "10m0s",
+      "tolerance": 1,
+      "idle_timeout": "30m0s",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "hysteria2",
+      "tag": "剩余流量：500 GB",
+      "server": "surfboard-fr.lwjyj.com",
+      "server_port": 25908,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "套餐到期：2024-12-08",
+      "server": "surfboard-fr.lwjyj.com",
+      "server_port": 25908,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷 法国1",
+      "server": "surfboard-fr.lwjyj.com",
+      "server_port": 25908,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷 法国2",
+      "server": "surfboard-fr.lwjyj.com",
+      "server_port": 25082,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷  法国3",
+      "server": "surfboard-fr.lwjyj.com",
+      "server_port": 25780,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷 法国4",
+      "server": "surfboard-fr.lwjyj.com",
+      "server_port": 25208,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇱🇺 卢森堡1",
+      "server": "surfboard-lu.lwjyj.com",
+      "server_port": 25185,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇱🇺 卢森堡2",
+      "server": "surfboard-lu.lwjyj.com",
+      "server_port": 25113,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇱🇺 卢森堡3",
+      "server": "surfboard-lu.lwjyj.com",
+      "server_port": 25280,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇱🇺 卢森堡4",
+      "server": "surfboard-lu.lwjyj.com",
+      "server_port": 25211,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国1",
+      "server": "surfboard-us.lwjyj.com",
+      "server_port": 25648,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国2",
+      "server": "surfboard-us.lwjyj.com",
+      "server_port": 25784,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国3",
+      "server": "surfboard-us.lwjyj.com",
+      "server_port": 25625,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 美国4",
+      "server": "surfboard-us.lwjyj.com",
+      "server_port": 25514,
+      "password": "dd6d3945-7911-4fab-9ba0-9a0b26037ffb",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "10-30",
+        "sleep": "2-8"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "inbound": "tun-in",
+        "package_name": "app.hiddify.com",
+        "outbound": "bypass"
+      },
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "rule_set": [
+          "geosite-ads",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers",
+          "geoip-malware",
+          "geoip-phishing"
+        ],
+        "outbound": "block"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geosite-ads",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-category-ads-all.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-malware",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-malware.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-phishing",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-phishing.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-cryptominers",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-cryptominers.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-phishing",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-phishing.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-malware",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-malware.srs",
+        "update_interval": "120h0m0s"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:16756",
+      "secret": "Cm_QLET5k9fQQM6k"
+    }
+  }
+}
