@@ -28,3 +28,4 @@ trojan://618@172.67.70.121:2087?security=tls&sni=shayan1.shayan-bardbor.workers.
 trojan://618@162.159.152.37:2087?security=tls&sni=shayan1.shayan-bardbor.workers.dev&fp=random&insecure=1&allowInsecure=1&type=ws&host=shayan1.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2560#12
 trojan://618@104.19.47.195:2087?security=tls&sni=shayan1.shayan-bardbor.workers.dev&fp=random&insecure=1&allowInsecure=1&type=ws&host=shayan1.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2560#13
 trojan://618@104.19.63.182:2083?security=tls&sni=shayan1.shayan-bardbor.workers.dev&fp=random&insecure=1&allowInsecure=1&type=ws&host=shayan1.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2560#14
+trojan://618@104.19.63.182:2083?security=tls&sni=shayan1.shayan-bardbor.workers.dev&fp=random&insecure=1&allowInsecure=1&type=ws&host=shayan1.shayan-bardbor.workers.dev&path=%2F%3Fed%3D2560#100
