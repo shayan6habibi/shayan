@@ -1,0 +1,9 @@
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@1.1.1.1:443?security=tls&sni=free.ch1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#1
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@1.1.1.1:443?security=tls&sni=free.ch1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#2
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@1.1.1.1:443?security=tls&sni=free.ch1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#3
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@1.1.1.1:443?security=tls&sni=free.ch1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#4
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@free.nl1.laodavip.com:443?security=tls&sni=free.nl1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#5
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@free.us1.laodavip.com:443?security=tls&sni=free.us1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#6
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@free-us02.laodavip.com:443?security=tls&sni=free-us02.laodavip.com&insecure=0&allowInsecure=0&type=tcp#7
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@free.it1.laodavip.com:443?security=tls&sni=free.it1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#8
+anytls://7855957d-18ba-493f-b465-3d6e7d83de45@free.ch1.laodavip.com:443?security=tls&sni=free.ch1.laodavip.com&insecure=0&allowInsecure=0&type=tcp#9
